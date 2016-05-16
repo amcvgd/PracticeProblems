@@ -1,0 +1,1 @@
+C:\Users\david\Source\Repos\MostFrequentInteger\PairsThatAddUpTo10\PairsThatAddUpTo10\bin\Debug\PairsThatAddUpTo10.exe.config
