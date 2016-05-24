@@ -31,5 +31,29 @@ namespace HelperMethods
         }
 
 
+        /// <summary>
+        /// This rotates an array by a given amount of spaces
+        /// </summary>
+        /// <param name="array">Array to be rotated</param>
+        /// <param name="spaces">Number of spaces to be rotated</param>
+        /// <returns></returns>
+        public static int[] RotateArray(int[] array, int spaces)
+        {
+            int[] newArray = new int[array.Length];
+
+            for(int i = 0; i < array.Length; i++)
+            {
+                int newIndex = i + spaces;
+                if (newIndex > array.Length - 1)
+                    newIndex = newIndex - array.Length;
+                newArray[newIndex] = array[i];
+            }
+
+
+            return newArray;
+
+        }
+
+
     }
 }
