@@ -1,2 +1,9 @@
 C:\Users\david\Source\Repos\MostFrequentInteger\PairsThatAddUpTo10\PairsThatAddUpTo10\bin\Debug\PairsThatAddUpTo10.exe.config
 C:\Users\david\Source\Repos\PracticeProblems\PairsThatAddUpTo10\PairsThatAddUpTo10\bin\Debug\PairsThatAddUpTo10.exe.config
+C:\Users\david\Source\Repos\PracticeProblems\PairsThatAddUpTo10\PairsThatAddUpTo10\bin\Debug\PairsThatAddUpTo10.exe
+C:\Users\david\Source\Repos\PracticeProblems\PairsThatAddUpTo10\PairsThatAddUpTo10\bin\Debug\PairsThatAddUpTo10.pdb
+C:\Users\david\Source\Repos\PracticeProblems\PairsThatAddUpTo10\PairsThatAddUpTo10\bin\Debug\HelperMethods.dll
+C:\Users\david\Source\Repos\PracticeProblems\PairsThatAddUpTo10\PairsThatAddUpTo10\bin\Debug\HelperMethods.pdb
+C:\Users\david\Source\Repos\PracticeProblems\PairsThatAddUpTo10\PairsThatAddUpTo10\obj\Debug\PairsThatAddUpTo10.csprojResolveAssemblyReference.cache
+C:\Users\david\Source\Repos\PracticeProblems\PairsThatAddUpTo10\PairsThatAddUpTo10\obj\Debug\PairsThatAddUpTo10.exe
+C:\Users\david\Source\Repos\PracticeProblems\PairsThatAddUpTo10\PairsThatAddUpTo10\obj\Debug\PairsThatAddUpTo10.pdb
